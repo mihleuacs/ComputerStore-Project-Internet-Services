@@ -1,0 +1,282 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Aleksandar\\Desktop\\Internet Services Proekt\\ProektComputerStore\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F67783BE-DEFF-499C-8F65-7522F1BBEA0E}|ProektComputerStore\\ProektComputerStore.csproj|c:\\users\\aleksandar\\desktop\\internet services proekt\\proektcomputerstore\\proektcomputerstore\\models\\domain\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F67783BE-DEFF-499C-8F65-7522F1BBEA0E}|ProektComputerStore\\ProektComputerStore.csproj|solutionrelative:proektcomputerstore\\models\\domain\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F67783BE-DEFF-499C-8F65-7522F1BBEA0E}|ProektComputerStore\\ProektComputerStore.csproj|c:\\users\\aleksandar\\desktop\\internet services proekt\\proektcomputerstore\\proektcomputerstore\\models\\domain\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F67783BE-DEFF-499C-8F65-7522F1BBEA0E}|ProektComputerStore\\ProektComputerStore.csproj|solutionrelative:proektcomputerstore\\models\\domain\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F67783BE-DEFF-499C-8F65-7522F1BBEA0E}|ProektComputerStore\\ProektComputerStore.csproj|c:\\users\\aleksandar\\desktop\\internet services proekt\\proektcomputerstore\\proektcomputerstore\\data\\storedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F67783BE-DEFF-499C-8F65-7522F1BBEA0E}|ProektComputerStore\\ProektComputerStore.csproj|solutionrelative:proektcomputerstore\\data\\storedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F67783BE-DEFF-499C-8F65-7522F1BBEA0E}|ProektComputerStore\\ProektComputerStore.csproj|c:\\users\\aleksandar\\desktop\\internet services proekt\\proektcomputerstore\\proektcomputerstore\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F67783BE-DEFF-499C-8F65-7522F1BBEA0E}|ProektComputerStore\\ProektComputerStore.csproj|solutionrelative:proektcomputerstore\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F67783BE-DEFF-499C-8F65-7522F1BBEA0E}|ProektComputerStore\\ProektComputerStore.csproj|c:\\users\\aleksandar\\desktop\\internet services proekt\\proektcomputerstore\\proektcomputerstore\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F67783BE-DEFF-499C-8F65-7522F1BBEA0E}|ProektComputerStore\\ProektComputerStore.csproj|solutionrelative:proektcomputerstore\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F67783BE-DEFF-499C-8F65-7522F1BBEA0E}|ProektComputerStore\\ProektComputerStore.csproj|c:\\users\\aleksandar\\desktop\\internet services proekt\\proektcomputerstore\\proektcomputerstore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F67783BE-DEFF-499C-8F65-7522F1BBEA0E}|ProektComputerStore\\ProektComputerStore.csproj|solutionrelative:proektcomputerstore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F67783BE-DEFF-499C-8F65-7522F1BBEA0E}|ProektComputerStore\\ProektComputerStore.csproj|c:\\users\\aleksandar\\desktop\\internet services proekt\\proektcomputerstore\\proektcomputerstore\\models\\dtos\\updateproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F67783BE-DEFF-499C-8F65-7522F1BBEA0E}|ProektComputerStore\\ProektComputerStore.csproj|solutionrelative:proektcomputerstore\\models\\dtos\\updateproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F67783BE-DEFF-499C-8F65-7522F1BBEA0E}|ProektComputerStore\\ProektComputerStore.csproj|c:\\users\\aleksandar\\desktop\\internet services proekt\\proektcomputerstore\\proektcomputerstore\\repositories\\interface\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F67783BE-DEFF-499C-8F65-7522F1BBEA0E}|ProektComputerStore\\ProektComputerStore.csproj|solutionrelative:proektcomputerstore\\repositories\\interface\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F67783BE-DEFF-499C-8F65-7522F1BBEA0E}|ProektComputerStore\\ProektComputerStore.csproj|c:\\users\\aleksandar\\desktop\\internet services proekt\\proektcomputerstore\\proektcomputerstore\\repositories\\repos\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F67783BE-DEFF-499C-8F65-7522F1BBEA0E}|ProektComputerStore\\ProektComputerStore.csproj|solutionrelative:proektcomputerstore\\repositories\\repos\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F67783BE-DEFF-499C-8F65-7522F1BBEA0E}|ProektComputerStore\\ProektComputerStore.csproj|c:\\users\\aleksandar\\desktop\\internet services proekt\\proektcomputerstore\\proektcomputerstore\\repositories\\interface\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F67783BE-DEFF-499C-8F65-7522F1BBEA0E}|ProektComputerStore\\ProektComputerStore.csproj|solutionrelative:proektcomputerstore\\repositories\\interface\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F67783BE-DEFF-499C-8F65-7522F1BBEA0E}|ProektComputerStore\\ProektComputerStore.csproj|c:\\users\\aleksandar\\desktop\\internet services proekt\\proektcomputerstore\\proektcomputerstore\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F67783BE-DEFF-499C-8F65-7522F1BBEA0E}|ProektComputerStore\\ProektComputerStore.csproj|solutionrelative:proektcomputerstore\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D17032F-0C16-4E57-83DE-CC39343865FF}|TestUnit\\TestUnit.csproj|c:\\users\\aleksandar\\desktop\\internet services proekt\\proektcomputerstore\\testunit\\categorytestcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D17032F-0C16-4E57-83DE-CC39343865FF}|TestUnit\\TestUnit.csproj|solutionrelative:testunit\\categorytestcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D17032F-0C16-4E57-83DE-CC39343865FF}|TestUnit\\TestUnit.csproj|c:\\users\\aleksandar\\desktop\\internet services proekt\\proektcomputerstore\\testunit\\producttestcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D17032F-0C16-4E57-83DE-CC39343865FF}|TestUnit\\TestUnit.csproj|solutionrelative:testunit\\producttestcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F67783BE-DEFF-499C-8F65-7522F1BBEA0E}|ProektComputerStore\\ProektComputerStore.csproj|c:\\users\\aleksandar\\desktop\\internet services proekt\\proektcomputerstore\\proektcomputerstore\\repositories\\repos\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F67783BE-DEFF-499C-8F65-7522F1BBEA0E}|ProektComputerStore\\ProektComputerStore.csproj|solutionrelative:proektcomputerstore\\repositories\\repos\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F67783BE-DEFF-499C-8F65-7522F1BBEA0E}|ProektComputerStore\\ProektComputerStore.csproj|c:\\users\\aleksandar\\desktop\\internet services proekt\\proektcomputerstore\\proektcomputerstore\\models\\dtos\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F67783BE-DEFF-499C-8F65-7522F1BBEA0E}|ProektComputerStore\\ProektComputerStore.csproj|solutionrelative:proektcomputerstore\\models\\dtos\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F67783BE-DEFF-499C-8F65-7522F1BBEA0E}|ProektComputerStore\\ProektComputerStore.csproj|c:\\users\\aleksandar\\desktop\\internet services proekt\\proektcomputerstore\\proektcomputerstore\\models\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F67783BE-DEFF-499C-8F65-7522F1BBEA0E}|ProektComputerStore\\ProektComputerStore.csproj|solutionrelative:proektcomputerstore\\models\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StoreDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Aleksandar\\Desktop\\Internet Services Proekt\\ProektComputerStore\\ProektComputerStore\\Data\\StoreDbContext.cs",
+              "RelativeDocumentMoniker": "ProektComputerStore\\Data\\StoreDbContext.cs",
+              "ToolTip": "C:\\Users\\Aleksandar\\Desktop\\Internet Services Proekt\\ProektComputerStore\\ProektComputerStore\\Data\\StoreDbContext.cs",
+              "RelativeToolTip": "ProektComputerStore\\Data\\StoreDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T16:35:02.259Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UpdateProductDto.cs",
+              "DocumentMoniker": "C:\\Users\\Aleksandar\\Desktop\\Internet Services Proekt\\ProektComputerStore\\ProektComputerStore\\Models\\DTOs\\UpdateProductDto.cs",
+              "RelativeDocumentMoniker": "ProektComputerStore\\Models\\DTOs\\UpdateProductDto.cs",
+              "ToolTip": "C:\\Users\\Aleksandar\\Desktop\\Internet Services Proekt\\ProektComputerStore\\ProektComputerStore\\Models\\DTOs\\UpdateProductDto.cs",
+              "RelativeToolTip": "ProektComputerStore\\Models\\DTOs\\UpdateProductDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T18:29:02.091Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\Aleksandar\\Desktop\\Internet Services Proekt\\ProektComputerStore\\ProektComputerStore\\Models\\Domain\\Category.cs",
+              "RelativeDocumentMoniker": "ProektComputerStore\\Models\\Domain\\Category.cs",
+              "ToolTip": "C:\\Users\\Aleksandar\\Desktop\\Internet Services Proekt\\ProektComputerStore\\ProektComputerStore\\Models\\Domain\\Category.cs",
+              "RelativeToolTip": "ProektComputerStore\\Models\\Domain\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T18:24:24.81Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\Aleksandar\\Desktop\\Internet Services Proekt\\ProektComputerStore\\ProektComputerStore\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "ProektComputerStore\\Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\Aleksandar\\Desktop\\Internet Services Proekt\\ProektComputerStore\\ProektComputerStore\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "ProektComputerStore\\Controllers\\CategoryController.cs",
+              "ViewState": "AQIAAD0AAAAAAAAAAAAcwFEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T14:27:40.279Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ICategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Aleksandar\\Desktop\\Internet Services Proekt\\ProektComputerStore\\ProektComputerStore\\Repositories\\Interface\\ICategoryRepository.cs",
+              "RelativeDocumentMoniker": "ProektComputerStore\\Repositories\\Interface\\ICategoryRepository.cs",
+              "ToolTip": "C:\\Users\\Aleksandar\\Desktop\\Internet Services Proekt\\ProektComputerStore\\ProektComputerStore\\Repositories\\Interface\\ICategoryRepository.cs",
+              "RelativeToolTip": "ProektComputerStore\\Repositories\\Interface\\ICategoryRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T22:25:45.133Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Aleksandar\\Desktop\\Internet Services Proekt\\ProektComputerStore\\ProektComputerStore\\Repositories\\Repos\\CategoryRepository.cs",
+              "RelativeDocumentMoniker": "ProektComputerStore\\Repositories\\Repos\\CategoryRepository.cs",
+              "ToolTip": "C:\\Users\\Aleksandar\\Desktop\\Internet Services Proekt\\ProektComputerStore\\ProektComputerStore\\Repositories\\Repos\\CategoryRepository.cs",
+              "RelativeToolTip": "ProektComputerStore\\Repositories\\Repos\\CategoryRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T22:25:29.477Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Aleksandar\\Desktop\\Internet Services Proekt\\ProektComputerStore\\ProektComputerStore\\Models\\Domain\\Product.cs",
+              "RelativeDocumentMoniker": "ProektComputerStore\\Models\\Domain\\Product.cs",
+              "ToolTip": "C:\\Users\\Aleksandar\\Desktop\\Internet Services Proekt\\ProektComputerStore\\ProektComputerStore\\Models\\Domain\\Product.cs",
+              "RelativeToolTip": "ProektComputerStore\\Models\\Domain\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T21:59:28.482Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Aleksandar\\Desktop\\Internet Services Proekt\\ProektComputerStore\\ProektComputerStore\\Repositories\\Repos\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "ProektComputerStore\\Repositories\\Repos\\ProductRepository.cs",
+              "ToolTip": "C:\\Users\\Aleksandar\\Desktop\\Internet Services Proekt\\ProektComputerStore\\ProektComputerStore\\Repositories\\Repos\\ProductRepository.cs",
+              "RelativeToolTip": "ProektComputerStore\\Repositories\\Repos\\ProductRepository.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAwDAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T21:55:49.931Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CategoryDto.cs",
+              "DocumentMoniker": "C:\\Users\\Aleksandar\\Desktop\\Internet Services Proekt\\ProektComputerStore\\ProektComputerStore\\Models\\DTOs\\CategoryDto.cs",
+              "RelativeDocumentMoniker": "ProektComputerStore\\Models\\DTOs\\CategoryDto.cs",
+              "ToolTip": "C:\\Users\\Aleksandar\\Desktop\\Internet Services Proekt\\ProektComputerStore\\ProektComputerStore\\Models\\DTOs\\CategoryDto.cs",
+              "RelativeToolTip": "ProektComputerStore\\Models\\DTOs\\CategoryDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T21:52:03.975Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Aleksandar\\Desktop\\Internet Services Proekt\\ProektComputerStore\\ProektComputerStore\\Repositories\\Interface\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "ProektComputerStore\\Repositories\\Interface\\IProductRepository.cs",
+              "ToolTip": "C:\\Users\\Aleksandar\\Desktop\\Internet Services Proekt\\ProektComputerStore\\ProektComputerStore\\Repositories\\Interface\\IProductRepository.cs",
+              "RelativeToolTip": "ProektComputerStore\\Repositories\\Interface\\IProductRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T22:23:54.974Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\Aleksandar\\Desktop\\Internet Services Proekt\\ProektComputerStore\\ProektComputerStore\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "ProektComputerStore\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\Aleksandar\\Desktop\\Internet Services Proekt\\ProektComputerStore\\ProektComputerStore\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "ProektComputerStore\\Controllers\\ProductController.cs",
+              "ViewState": "AQIAAIUAAAAAAAAAAAAcwGIAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T19:22:13.611Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Aleksandar\\Desktop\\Internet Services Proekt\\ProektComputerStore\\ProektComputerStore\\Program.cs",
+              "RelativeDocumentMoniker": "ProektComputerStore\\Program.cs",
+              "ToolTip": "C:\\Users\\Aleksandar\\Desktop\\Internet Services Proekt\\ProektComputerStore\\ProektComputerStore\\Program.cs",
+              "RelativeToolTip": "ProektComputerStore\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABcAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T22:01:13.766Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CategoryTestController.cs",
+              "DocumentMoniker": "C:\\Users\\Aleksandar\\Desktop\\Internet Services Proekt\\ProektComputerStore\\TestUnit\\CategoryTestController.cs",
+              "RelativeDocumentMoniker": "TestUnit\\CategoryTestController.cs",
+              "ToolTip": "C:\\Users\\Aleksandar\\Desktop\\Internet Services Proekt\\ProektComputerStore\\TestUnit\\CategoryTestController.cs",
+              "RelativeToolTip": "TestUnit\\CategoryTestController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACYAAABPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T14:26:35.299Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ProductTestController.cs",
+              "DocumentMoniker": "C:\\Users\\Aleksandar\\Desktop\\Internet Services Proekt\\ProektComputerStore\\TestUnit\\ProductTestController.cs",
+              "RelativeDocumentMoniker": "TestUnit\\ProductTestController.cs",
+              "ToolTip": "C:\\Users\\Aleksandar\\Desktop\\Internet Services Proekt\\ProektComputerStore\\TestUnit\\ProductTestController.cs",
+              "RelativeToolTip": "TestUnit\\ProductTestController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAkwBIAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T14:43:08.188Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Aleksandar\\Desktop\\Internet Services Proekt\\ProektComputerStore\\ProektComputerStore\\appsettings.json",
+              "RelativeDocumentMoniker": "ProektComputerStore\\appsettings.json",
+              "ToolTip": "C:\\Users\\Aleksandar\\Desktop\\Internet Services Proekt\\ProektComputerStore\\ProektComputerStore\\appsettings.json",
+              "RelativeToolTip": "ProektComputerStore\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-15T18:13:28.165Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ProductDto.cs",
+              "DocumentMoniker": "C:\\Users\\Aleksandar\\Desktop\\Internet Services Proekt\\ProektComputerStore\\ProektComputerStore\\Models\\DTOs\\ProductDto.cs",
+              "RelativeDocumentMoniker": "ProektComputerStore\\Models\\DTOs\\ProductDto.cs",
+              "ToolTip": "C:\\Users\\Aleksandar\\Desktop\\Internet Services Proekt\\ProektComputerStore\\ProektComputerStore\\Models\\DTOs\\ProductDto.cs",
+              "RelativeToolTip": "ProektComputerStore\\Models\\DTOs\\ProductDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T21:50:10.716Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
